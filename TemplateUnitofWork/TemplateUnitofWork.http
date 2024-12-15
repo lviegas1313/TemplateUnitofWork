@@ -1,0 +1,6 @@
+@TemplateUnitofWork_HostAddress = http://localhost:5073
+
+GET {{TemplateUnitofWork_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
